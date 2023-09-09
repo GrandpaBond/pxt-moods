@@ -1,5 +1,5 @@
 {
-    "name": "pxt-moods",
+    "name": "pxt-moody",
     "description": "",
     "dependencies": {
         "core": "*",
